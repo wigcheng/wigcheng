@@ -1,6 +1,6 @@
 # Hi, I'm Wig Cheng 👋
 
-**BSP Engineering Manager @ IEI Integration Corp. | Community Maintainer @ Open-EP, Kakip**
+**BSP Engineering Manager | Community Maintainer @ Open-EP, KAKIP**
 
 
 ## 🎤 Conference Talks & Community
